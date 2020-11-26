@@ -1,6 +1,6 @@
 {
   "name": "@typedninja/pullable-cron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cron transformer for Pullable",
   "author": "Typed Ninja <strongly@typed.ninja>",
   "license": "MIT",
