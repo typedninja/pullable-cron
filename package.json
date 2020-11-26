@@ -41,7 +41,6 @@
   },
   "dependencies": {
     "@typedninja/pullable": "^1.0.0",
-    "@typedninja/signal": "^1.0.3",
     "cron-parser": "^2.18.0"
   }
 }
